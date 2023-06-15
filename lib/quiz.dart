@@ -38,7 +38,8 @@ class _QuizState extends State<Quiz> {
                 Color.fromARGB(255, 107, 15, 168)
               ], begin: Alignment.topLeft, end: Alignment.bottomRight),
             ),
-            child: screenWidget),
+            child: screenWidget
+        ),
       ),
     );
   }
